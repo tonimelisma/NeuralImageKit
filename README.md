@@ -18,5 +18,18 @@ previews will never be used. Original images remain read-only.
 ## Status
 
 Early development. The neural pipeline and public Swift package API are not yet
-available. This public repository currently contains the project overview;
-implementation will follow after publication review.
+available. This repository includes a standalone RAW-to-HEIF development harness,
+calibration experiments and synthetic tests. These experimental models do not yet
+establish photographic quality for the planned neural pipeline.
+
+## Development
+
+Requires macOS 27 and the full Xcode 27 toolchain.
+
+```sh
+script/check.sh
+```
+
+This compiles the standalone tools and runs numerical, CPU/Metal, capture-guard
+and process-memory supervision fixtures. Training media, private manifests and
+checkpoints are excluded from Git.

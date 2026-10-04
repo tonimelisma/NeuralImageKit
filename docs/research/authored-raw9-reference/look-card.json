@@ -1,0 +1,174 @@
+{
+  "formatVersion": 5,
+  "maximumLightnessDifference": 2.0,
+  "maximumMedianDE00": 3.0,
+  "maximumChromaDifference": 3.0,
+  "maximumSensitivityDE00": 1.0,
+  "regions": {
+    "20260920_131849": [
+      {
+        "name": "face",
+        "rectangle": [
+          0.29,
+          0.44,
+          0.37,
+          0.57
+        ]
+      },
+      {
+        "name": "white wall",
+        "rectangle": [
+          0.67,
+          0.03,
+          0.88,
+          0.22
+        ]
+      },
+      {
+        "name": "colour chair",
+        "rectangle": [
+          0.67,
+          0.3,
+          0.81,
+          0.57
+        ]
+      }
+    ],
+    "20260921_124945": [
+      {
+        "name": "face",
+        "rectangle": [
+          0.41,
+          0.3,
+          0.49,
+          0.42
+        ]
+      },
+      {
+        "name": "white shirt",
+        "rectangle": [
+          0.37,
+          0.41,
+          0.45,
+          0.52
+        ]
+      },
+      {
+        "name": "cyan toy",
+        "rectangle": [
+          0.25,
+          0.779296875,
+          0.265625,
+          0.802734375
+        ]
+      }
+    ],
+    "20260921_124534": [
+      {
+        "name": "face",
+        "rectangle": [
+          0.4,
+          0.22,
+          0.61,
+          0.43
+        ]
+      },
+      {
+        "name": "towel",
+        "rectangle": [
+          0.69,
+          0.5,
+          0.86,
+          0.8
+        ]
+      },
+      {
+        "name": "white shirt",
+        "rectangle": [
+          0.39,
+          0.56,
+          0.53,
+          0.7
+        ]
+      }
+    ],
+    "20260921_162050": [
+      {
+        "name": "water",
+        "rectangle": [
+          0.51,
+          0.43,
+          0.58,
+          0.68
+        ]
+      },
+      {
+        "name": "sunlit foliage",
+        "rectangle": [
+          0.09,
+          0.39,
+          0.23,
+          0.58
+        ]
+      },
+      {
+        "name": "dark forest",
+        "rectangle": [
+          0.69,
+          0.22,
+          0.84,
+          0.38
+        ]
+      }
+    ],
+    "20260921_103245": [
+      {
+        "name": "stone",
+        "rectangle": [
+          0.34,
+          0.39,
+          0.46,
+          0.5
+        ]
+      },
+      {
+        "name": "ground",
+        "rectangle": [
+          0.46,
+          0.26,
+          0.58,
+          0.39
+        ]
+      }
+    ],
+    "20260710_203257": [
+      {
+        "name": "face",
+        "rectangle": [
+          0.58,
+          0.33,
+          0.67,
+          0.49
+        ]
+      },
+      {
+        "name": "white jacket",
+        "rectangle": [
+          0.76,
+          0.54,
+          0.87,
+          0.7
+        ]
+      },
+      {
+        "name": "tent",
+        "rectangle": [
+          0.09,
+          0.13,
+          0.26,
+          0.4
+        ]
+      }
+    ]
+  }
+}

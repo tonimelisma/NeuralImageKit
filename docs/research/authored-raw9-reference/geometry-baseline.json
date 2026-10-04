@@ -1,0 +1,18 @@
+{
+  "contrast": 1.4031936342006888,
+  "decoder": "9",
+  "exposureEV": 0,
+  "formatVersion": 5,
+  "gamutPolicy": "smoothRadial",
+  "huePreservation": 0.5,
+  "input": "mapped",
+  "saturation": 1.0532516696197214,
+  "skew": 1.251684249556872,
+  "toneMode": "perChannel",
+  "tonePivot": 0.14037518024235415,
+  "whiteBalanceRGB": [
+    1,
+    1,
+    1
+  ]
+}
