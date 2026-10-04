@@ -33,3 +33,12 @@ script/check.sh
 This compiles the standalone tools and runs numerical, CPU/Metal, capture-guard
 and process-memory supervision fixtures. Training media, private manifests and
 checkpoints are excluded from Git.
+
+## Project documents
+
+- [Active implementation plan](docs/plans/0001-vivid-neural-development.md)
+- [Roadmap](docs/roadmap.md)
+- [Current architecture](docs/architecture.md)
+
+Relevant research and historical provenance are retained locally in ignored
+`private/`. Training media remain local in ignored `data/paired-corpus/`.
