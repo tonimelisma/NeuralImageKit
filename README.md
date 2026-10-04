@@ -40,5 +40,7 @@ checkpoints are excluded from Git.
 - [Roadmap](docs/roadmap.md)
 - [Current architecture](docs/architecture.md)
 
-Relevant research and historical provenance are retained locally in ignored
-`private/`. Training media remain local in ignored `data/paired-corpus/`.
+- [Technical research](docs/research/README.md)
+
+Training media and private data-provenance receipts remain local in ignored
+`data/`.
