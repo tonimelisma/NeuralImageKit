@@ -21,6 +21,6 @@ Keep it buildable, testable and runnable without any consumer repository.
 - Verification belongs to this repository. Do not invoke consumer app checks or
   depend on consumer logging/build helpers.
 
-The active plan is `docs/plans/0001-vivid-neural-development.md`. Relevant private
-research is in `private/research/`; its index states what each document supports.
-Private history is provenance, not current execution instructions.
+The active plan is `docs/plans/0001-vivid-neural-development.md`.
+Relevant technical research is tracked in `docs/research/`. Its dated findings
+inform the plan; superseded experiment choices do not guide execution.

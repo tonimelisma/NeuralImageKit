@@ -42,7 +42,7 @@ Use a compact established encoder-decoder with whole-image context and local
 image detail. First assess a narrow NAFNet configuration; its camera suitability,
 whole-image context, component licenses and deployment support are not established.
 A small residual U-Net is the bounded alternative if that assessment rejects NAFNet.
-See network and Core AI research (retained locally in `private/research/`).
+See [network and Core AI research](../research/2026-10-03-neural-renderers-and-core-ai.md).
 The network predicts the corrected image directly, initially as a correction to
 its input. Train against output images, not fitted adjustment coefficients.
 Do not introduce image categories, preset templates, LUT selectors or independent
@@ -94,8 +94,8 @@ extracted into this repository. Source inventory records the preserved checkpoin
 367cd30 and origin hashes. The harness owns its logging and build scripts. Private
 corpus relocation records are kept beside the corpus; do not change role assignments
 or claim old reports are newly evaluated. The new neural model/public API remain
-unimplemented. See native capabilities (retained locally in `private/research/`)
-and network research (retained locally in `private/research/`).
+unimplemented. See [native capabilities](../research/2026-10-03-macos-imaging-capabilities.md)
+and [network research](../research/2026-10-03-neural-renderers-and-core-ai.md).
 
 ## Milestone 1 — Freeze pairs, roles and comparisons
 

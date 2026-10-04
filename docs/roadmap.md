@@ -56,5 +56,5 @@ can train the same architecture with new weights before introducing multi-look
 conditioning. No network/encoder/camera option is declared implemented here.
 
 See [Plan 0001](plans/0001-vivid-neural-development.md) for current
-execution and HDR and RAW boundary research retained locally in `private/research/`
+execution and [HDR and RAW boundary research](research/2026-10-03-raw-library-hdr-and-camera-boundary.md)
 for the technical evidence behind this direction.

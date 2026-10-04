@@ -10,6 +10,6 @@ The existing compact-model code is experimental. The Core AI neural pipeline and
 public Swift package API are not implemented.
 
 The active plan is [0001](plans/0001-vivid-neural-development.md).
-Relevant research is retained locally in ignored `private/research/`.
-Media live in ignored `data/paired-corpus/`; ignored `private/history/` contains
-provenance and a verified Git bundle, not another checkout.
+Relevant research is tracked in [docs/research](research/README.md).
+Media live in ignored `data/paired-corpus/`. Data-provenance receipts are ignored
+under `data/provenance/`.

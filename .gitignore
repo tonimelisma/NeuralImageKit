@@ -2,4 +2,3 @@ build/
 data/
 checkpoints/
 .DS_Store
-private/
